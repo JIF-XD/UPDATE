@@ -20,4 +20,4 @@ git clone https://github.com/JIF-XD/UPDATE
 
 cd UPDATE
 
-python JIF.py
+python run.py
